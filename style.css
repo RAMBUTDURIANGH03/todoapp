@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    background-color: #fff;
+    padding: 20px;
+    width: 350px;
+    margin-top: 50px;
+}
+
+.input-group {
+    display: flex;
+    margin-bottom: 20px;
+}
